@@ -46,8 +46,6 @@ bank-deposit-subscription-prediction/
 ├── app/
 │   └── mystreamlit.py
 │
-├── images/
-│
 └── README.md
 ```
 
